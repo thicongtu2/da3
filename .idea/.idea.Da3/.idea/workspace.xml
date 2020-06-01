@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a585bcb8-c428-400f-b207-ae23e47977bd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB0398C5-D377-40C5-B9B0-886AACCEF622/d9/35c8d4b9/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Employer/Info.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Share/Extensions/UserExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Entities/Review.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Entities/Employee.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Extentions/SessionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Infrastructure/Migrations/20200523023431_ChangeVarcharToText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Infrastructure/Migrations/ApplicationDbContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Controllers/EmployerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Models/RegisterViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Models/LoginViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Shared/_AdminLayout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Controllers/BaseController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Controllers/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6BB83402-E931-4DA4-B919-8204A0F9002E/6e/17b980c4/EventBusBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Employer/List.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Entities/JobCategory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EE112216-0442-4745-BA1C-E531BDFBB9F2/6d/10d5b016/MaxLengthAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Employer/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Entities/Job.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A76AC4F3-7222-4DA6-B0CA-CCACDB728DC8/4d/19dec197/JsonOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Entities/Employer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Account/Login.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Account/Register.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Shared/_UnAuthorized.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Infrastructure/Database/DesignApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Areas/Identity/Pages/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Admin/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Share/Configuration/EventBusRegister.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4653EACD-AE85-4A03-A55C-68CD1FC7C4A2/15/cd574218/IEventBusBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Home/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Shared/_LoginPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Controllers/AdminController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Admin/Account.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Entities/BaseEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Share/Configuration/ApplicationLogger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Entities/Category.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Views/Home/View.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Infrastructure/Database/EntityBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Role/PolicyRule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Role/RoleConstants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Role/UserRoleMigration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B85B78D1-589F-41D2-8E64-C6AC7FC76F25/e9/0c3bdb51/SignInManager`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Entities/Search.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/EventSource/Handler/UpNewJobEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Interface/IEmployee.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Entities/Apply.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Infrastructure/Authentication/ApplicationSignInManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Infrastructure/Migrations/20200523023550_ChangeVarcharToMediumText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Interface/IEmployer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Entities/Da3User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/EventSource/Event/UpNewJobEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Infrastructure/Authentication/ApplicationUserManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/Interface/IUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Share/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Infrastructure/Authentication/ApplicationRoleManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/EventSource/Event/ApplyJobEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Core/EventSource/Handler/ApplyJobEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Infrastructure/Authentication/ApplicationRoleStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Configuration/ApplicationBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Infrastructure/Database/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3.Infrastructure/Authentication/ApplicationUserStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/026F34EA-BAF3-4417-A4D1-FEE03B871966/9e/5cb5a0d8/IDesignTimeDbContextFactory`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Da3/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Da3.Core/EventSource/Handler/UpNewJobEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Da3.Core/Role/RoleConstants.cs" />
+        <option value="$PROJECT_DIR$/Da3.Core/Role/PolicyRule.cs" />
+        <option value="$PROJECT_DIR$/Da3.Share/Configuration/EventBusRegister.cs" />
+        <option value="$PROJECT_DIR$/Da3.Core/Entities/User.cs" />
+        <option value="$PROJECT_DIR$/Da3.Core/Role/ApplicationUserRole.cs" />
+        <option value="$PROJECT_DIR$/Da3.Infrastructure/Authentication/ApplicationUserStore.cs" />
+        <option value="$PROJECT_DIR$/Da3.Infrastructure/Authentication/pplicationRoleStore.cs" />
+        <option value="$PROJECT_DIR$/Da3.Infrastructure/Authentication/ApplicationRoleManager.cs" />
+        <option value="$PROJECT_DIR$/Da3.Infrastructure/Authentication/ApplicationSignInManager.cs" />
+        <option value="$PROJECT_DIR$/Da3.Infrastructure/Authentication/ApplicationRoleStore.cs" />
+        <option value="$PROJECT_DIR$/Da3.Infrastructure/Authentication/ApplicationUserManager.cs" />
+        <option value="$PROJECT_DIR$/Da3/Pages/Account/Login.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Controllers/AuthenController.cs" />
+        <option value="$PROJECT_DIR$/Da3/Models/LoginViewModel.cs" />
+        <option value="$PROJECT_DIR$/Da3/Models/RegisterViewModel.cs" />
+        <option value="$PROJECT_DIR$/Da3/Controllers/BaseController.cs" />
+        <option value="$PROJECT_DIR$/Da3.Core/Role/UserRoleMigration.cs" />
+        <option value="$PROJECT_DIR$/Da3/Startup.cs" />
+        <option value="$PROJECT_DIR$/Da3.Core/Entities/Da3User.cs" />
+        <option value="$PROJECT_DIR$/Da3/Pages/Employer/Info.cshtml" />
+        <option value="$PROJECT_DIR$/Da3.Share/Extensions/UserExtensions.cs" />
+        <option value="$PROJECT_DIR$/Da3.Core/Entities/Employer.cs" />
+        <option value="$PROJECT_DIR$/Da3.Infrastructure/Database/ApplicationDbContext.cs" />
+        <option value="$PROJECT_DIR$/Da3/Views/Employer/Info.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Pages/Admin/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Views/Admin/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Extentions/SessionExtensions.cs" />
+        <option value="$PROJECT_DIR$/Da3/Controllers/AccountController.cs" />
+        <option value="$PROJECT_DIR$/Da3/Configuration/ApplicationBuilder.cs" />
+        <option value="$PROJECT_DIR$/Da3/Views/Home/View.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Views/Shared/_LoginPartial.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/Da3/Views/Home/Privacy.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Views/Account/Login.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Views/Account/Register.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Views/Admin/Account.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Controllers/AdminController.cs" />
+        <option value="$PROJECT_DIR$/Da3/Controllers/EmployerController.cs" />
+        <option value="$PROJECT_DIR$/Da3/Views/Employer/List.cshtml" />
+        <option value="$PROJECT_DIR$/Da3.Core/Entities/Job.cs" />
+        <option value="$PROJECT_DIR$/Da3/Views/Shared/_UnAuthorized.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/Da3/Views/Shared/_AdminLayout.cshtml" />
+        <option value="$PROJECT_DIR$/Da3.Core/Interface/IUser.cs" />
+        <option value="$PROJECT_DIR$/Da3.Core/Interface/IEmployer.cs" />
+        <option value="$PROJECT_DIR$/Da3.Core/Interface/IEmployeer.cs" />
+        <option value="$PROJECT_DIR$/Da3.Core/Entities/Search.cs" />
+        <option value="$PROJECT_DIR$/Da3.Core/Interface/IEmployee.cs" />
+        <option value="$PROJECT_DIR$/Da3/Views/Employer/Create.cshtml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c5LeailxiSE8l3gpqeKQ6Oao6r" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Erp/BGC Solution.sln" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Da3">
+    <configuration name="Da3" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Da3/Da3.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="Da3" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Da3: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Da3/Da3.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a585bcb8-c428-400f-b207-ae23e47977bd" name="Default Changelist" comment="" />
+      <created>1589813604054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589813604054</updated>
+      <workItem from="1589813605353" duration="2434000" />
+      <workItem from="1590118922273" duration="41630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Da3/Controllers/AccountController.cs</url>
+          <line>67</line>
+          <properties documentPath="$PROJECT_DIR$/Da3/Controllers/AccountController.cs" initialLine="67">
+            <startOffsets>
+              <option value="2475" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2548" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Da3/Controllers/AccountController.cs</url>
+          <line>68</line>
+          <properties documentPath="$PROJECT_DIR$/Da3/Controllers/AccountController.cs" initialLine="68">
+            <startOffsets>
+              <option value="2569" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2586" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Da3/Controllers/AccountController.cs</url>
+          <line>74</line>
+          <properties documentPath="$PROJECT_DIR$/Da3/Controllers/AccountController.cs" initialLine="74">
+            <startOffsets>
+              <option value="2771" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2813" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Da3/Controllers/AccountController.cs</url>
+          <line>77</line>
+          <properties documentPath="$PROJECT_DIR$/Da3/Controllers/AccountController.cs" initialLine="77">
+            <startOffsets>
+              <option value="2857" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2891" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Da3/Controllers/EmployerController.cs</url>
+          <line>83</line>
+          <properties documentPath="$PROJECT_DIR$/Da3/Controllers/EmployerController.cs" initialLine="83">
+            <startOffsets>
+              <option value="2558" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2585" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="LaunchSettings">
+        <watch expression="User.GetUserId()" language="C#" custom="RiderImportsList:" />
+        <watch expression="User.GetRole()" language="C#" custom="RiderImportsList:" />
+        <watch expression="HttpContext.Session.Get&lt;Employer&gt;(&quot;Employer&quot;)" language="C#" custom="RiderImportsList:Microsoft.AspNetCore.Http" />
+        <watch expression="jobs.ToList()" language="C#" custom="RiderImportsList:" />
+        <watch expression="_dbContext.Jobs.Where(i =&gt; i.CreatedTime.AddDays(3) &lt;= DateTime.Today).ToList()" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

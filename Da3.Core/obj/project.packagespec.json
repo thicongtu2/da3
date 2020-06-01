@@ -1,0 +1,61 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/Da3.Core.csproj",
+    "projectName": "Da3.Core",
+    "projectPath": "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/Da3.Core.csproj",
+    "outputPath": "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "JKang.EventBus.Abstractions": {
+          "target": "Package",
+          "version": "[1.1.0, )"
+        },
+        "JKang.EventBus.Core": {
+          "target": "Package",
+          "version": "[1.1.0, )"
+        },
+        "JKang.EventBus.InMemory": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

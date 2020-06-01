@@ -1,0 +1,81 @@
+@model object
+
+@{
+    ViewBag.Title = "Dashboard";
+    Layout = "_AdminLayout";
+}
+
+<div class="app-main__inner">
+    <div class="app-page-title">
+        <div class="page-title-wrapper">
+            <div class="page-title-heading">
+                <div class="page-title-icon">
+                    <i class="pe-7s-car icon-gradient bg-mean-fruit">
+                    </i>
+                </div>
+                <div>
+                    Analytics Dashboard
+                    <div class="page-title-subheading">
+                        This is an dashboard.
+                    </div>
+                </div>
+            </div>
+            <div class="page-title-actions">
+                <a class="btn btn-success" href="/backend/post/create">Publish A Job</a>
+                <a class="btn btn-success" href="/backend/category/create">Manage Job</a>
+                <a class="btn btn-success" href="/backend/user/create">Manage Employer</a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 col-xl-4">
+            <a href="/backend/order">
+                <div class="card mb-3 widget-content bg-midnight-bloom">
+                    <div class="widget-content-wrapper text-white">
+                        <div class="widget-content-left">
+                            <div class="widget-heading">Job</div>
+                            <div class="widget-subheading">Total published job</div>
+                        </div>
+                        <div class="widget-content-right">
+                            <div class="widget-numbers text-white">
+                                <span>1</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-6 col-xl-4">
+            <a href="/backend/contact" style="text-decoration: none">
+                <div class="card mb-3 widget-content bg-arielle-smile">
+                    <div class="widget-content-wrapper text-white">
+                        <div class="widget-content-left">
+                            <div class="widget-heading">Interested</div>
+                            <div class="widget-subheading">Total Interested employee</div>
+                        </div>
+                        <div class="widget-content-right">
+                            <div class="widget-numbers text-white">
+                                <span>123</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-6 col-xl-4">
+            <div class="card mb-3 widget-content bg-grow-early">
+                <div class="widget-content-wrapper text-white">
+                    <div class="widget-content-left">
+                        <div class="widget-heading">Finacial</div>
+                        <div class="widget-subheading">Rest Coin</div>
+                    </div>
+                    <div class="widget-content-right">
+                        <div class="widget-numbers text-white">
+                            <span>1000$</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

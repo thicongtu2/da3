@@ -1,0 +1,13 @@
+@model Da3.Core.Entities.Job
+
+@{
+    ViewBag.Title = Model.Title;
+    Layout = "_Layout";
+}
+
+<h2>@Model.Title</h2>
+<br/>
+<h2>@Model.Salary</h2>
+<br>
+<p>@Html.Raw(Model.Description)</p>
+

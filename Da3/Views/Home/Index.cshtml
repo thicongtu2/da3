@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_UnAuthorized";
+}
+<div class="h-100 d-flex bg-white justify-content-center col-md-12 col-lg-12">
+    <div class="mx-auto app-login-box col-sm-8 col-md-8 col-lg-8">
+        <table id="newContact" class="mb-0 table table-bordered" width="100%">
+            <thead>
+            <tr>
+                <td width="20px">Id</td>
+                <td>Title</td>
+                <td>Salary</td>
+                <td>Created at</td>
+            </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script>
+        function success(position) {
+           const latitude  = position.coords.latitude;
+           const longitude = position.coords.longitude;
+           var ajaxUrls = "home/job?latitude="+latitude+"&longitude="+longitude;
+              var c = 0;
+                       var contractTable = $('#newContact').DataTable({
+                           ajax: ajaxUrls,
+                           deferRender: true,
+                           scrollX: true,
+                           "info": false,
+                           "pageLength": 20,
+                           scrollY: "400px",
+                           "paging":   false,
+                           "scrollCollapse": true,
+                           scroller: {
+                               rowHeight: 30
+                           },
+                           dom: 'Bfrtip',
+                           buttons: [
+                           ],
+                           language: copiedEmailLanguage,
+                           columnDefs: [
+                               {
+                                   "targets": "_all",
+                                   "defaultContent": ""
+                               },
+                               {
+                                   "name": "id",
+                                   "data": "id",
+                                   "targets": [c++]
+                               },
+                               {
+                                   "name": "title",
+                                   "data": "title",
+                                   "targets": [c++],
+                                   "render": function (data, type, row) {
+                                       return `<a href='/home/view/${row.id}'>${row.title}</a>`;
+                                   }
+                               },
+                               {
+                                   "name": "salary",
+                                   "data": "salary",
+                                   "targets": [c++]
+                               },
+                               {
+                                   "name": "created_at",
+                                   "data": "created_at",
+                                   "targets": [c++],
+                                   "render": function (data, type, row) {
+                                       return row.createdTime;
+                                   }
+                               },
+                             
+                           ]
+                       });
+        }
+              
+        navigator.geolocation.getCurrentPosition(success);
+    </script>
+}

@@ -1,0 +1,91 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3/Da3.csproj",
+    "projectName": "Da3",
+    "projectPath": "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3/Da3.csproj",
+    "outputPath": "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/Da3.Core.csproj": {
+            "projectPath": "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/Da3.Core.csproj"
+          },
+          "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Infrastructure/Da3.Infrastructure.csproj": {
+            "projectPath": "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Infrastructure/Da3.Infrastructure.csproj"
+          },
+          "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Share/Da3.Share.csproj": {
+            "projectPath": "/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Share/Da3.Share.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "Microsoft.AspNetCore.Identity.UI": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+          "target": "Package",
+          "version": "[3.1.4, )"
+        },
+        "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+          "target": "Package",
+          "version": "[3.1.4, )"
+        },
+        "Microsoft.AspNetCore.Mvc.TagHelpers": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.3, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

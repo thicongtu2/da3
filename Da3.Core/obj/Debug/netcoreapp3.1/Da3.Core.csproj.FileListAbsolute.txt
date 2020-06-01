@@ -1,0 +1,14 @@
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/bin/Debug/netcoreapp3.1/Da3.Core.deps.json
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/bin/Debug/netcoreapp3.1/Da3.Core.dll
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/bin/Debug/netcoreapp3.1/Da3.Core.pdb
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/obj/Debug/netcoreapp3.1/Da3.Core.csprojAssemblyReference.cache
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/obj/Debug/netcoreapp3.1/Da3.Core.AssemblyInfoInputs.cache
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/obj/Debug/netcoreapp3.1/Da3.Core.AssemblyInfo.cs
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/obj/Debug/netcoreapp3.1/Da3.Core.dll
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/obj/Debug/netcoreapp3.1/Da3.Core.pdb
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/bin/Debug/netcoreapp3.1/System.IO.Pipelines.dll
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Http.Abstractions.xml
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.xml
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Core/obj/Debug/netcoreapp3.1/Da3.Core.csproj.CopyComplete

@@ -1,0 +1,67 @@
+@model Da3.Core.Entities.Employer
+
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "Employer Information";
+}
+
+
+<div class="app-page-title">
+    <div class="page-title-wrapper">
+        <div class="page-title-heading">
+            <div class="page-title-icon">
+                <i class="pe-7s-user icon-gradient bg-premium-dark">
+                </i>
+            </div>
+            <div>
+                User Info
+                <div class="page-title-subheading">
+                    Update your user info
+                </div>
+            </div>
+        </div>
+        <div class="page-title-actions">
+            <a href="/backend" class="btn-shadow mr-3 btn btn-dark">
+                Back
+            </a>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="main-card mb-3 card">
+            <div class="card-body">
+                <div class="card-title">Your Information (Last Update: @Model.UpdateTime)</div>
+                <form method="post">
+                    <div class="form-row">
+                        <div class="form-group col-md-4">
+                            <label for="">Name</label>
+                            <input asp-for="Name" class="form-control">
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label for="">Address</label>
+                            <input asp-for="Address" class="form-control">
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label for="">Phpne</label>
+                            <input asp-for="Phone" class="form-control">
+                        </div>
+                        <div class="form-group col-md-12">
+                            <label for="">Description</label>
+                            <textarea rows="4" id="summary-ckeditor" asp-for="Description" class="form-control"></textarea>
+                        </div>
+                    </div>
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <button class="btn-primary btn" type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="https://cdn.ckeditor.com/4.13.1/standard/ckeditor.js"></script>
+    <script>
+            CKEDITOR.replace( 'summary-ckeditor' );
+    </script>
+}

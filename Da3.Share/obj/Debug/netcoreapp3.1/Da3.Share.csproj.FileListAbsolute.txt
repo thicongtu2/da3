@@ -1,0 +1,8 @@
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Share/bin/Debug/netcoreapp3.1/Da3.Share.deps.json
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Share/bin/Debug/netcoreapp3.1/Da3.Share.dll
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Share/bin/Debug/netcoreapp3.1/Da3.Share.pdb
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Share/obj/Debug/netcoreapp3.1/Da3.Share.csprojAssemblyReference.cache
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Share/obj/Debug/netcoreapp3.1/Da3.Share.AssemblyInfoInputs.cache
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Share/obj/Debug/netcoreapp3.1/Da3.Share.AssemblyInfo.cs
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Share/obj/Debug/netcoreapp3.1/Da3.Share.dll
+/Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Share/obj/Debug/netcoreapp3.1/Da3.Share.pdb

@@ -1,0 +1,82 @@
+@model Da3.Core.Entities.Job
+
+@{
+    ViewBag.Title = "Publish Job";
+    Layout = "_AdminLayout";
+}
+
+<div class="app-page-title">
+    <div class="page-title-wrapper">
+        <div class="page-title-heading">
+            <div class="page-title-icon">
+                <i class="pe-7s-share icon-gradient bg-premium-dark">
+                </i>
+            </div>
+            <div>
+                Publish Job
+                <div class="page-title-subheading">
+                   Publish Job
+                </div>
+            </div>
+        </div>
+        <div class="page-title-actions">
+            <a href="/backend" class="btn-shadow mr-3 btn btn-dark">
+                Back
+            </a>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="main-card mb-3 card">
+            <div class="card-body">
+                <div class="card-title">Pusblish a Job, Expired after 3 days</div>
+                <form method="post">
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="">Title</label>
+                            <input asp-for="Title" class="form-control">
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label for="">Salary</label>
+                            <input asp-for="Salary" class="form-control">
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label for="">Min Salary</label>
+                            <input asp-for="MinSalary" class="form-control">
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label for="">Max Salary</label>
+                            <input asp-for="MaxSalary" class="form-control">
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label for="">Phone Number</label>
+                            <input asp-for="MaxSalary" class="form-control">
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label for="">Address</label>
+                            <input  class="form-control">
+                        </div>
+                        <div class="form-group col-md-12">
+                            <label for="">Tag</label>
+                            <input  class="form-control">
+                        </div>
+                        <div class="form-group col-md-12">
+                            <label for="">Description</label>
+                            <textarea rows="4" id="summary-ckeditor" asp-for="Description" class="form-control"></textarea>
+                        </div>
+                    </div>
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <button class="btn-primary btn" type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="https://cdn.ckeditor.com/4.13.1/standard/ckeditor.js"></script>
+    <script>
+            CKEDITOR.replace( 'summary-ckeditor' );
+    </script>
+}
