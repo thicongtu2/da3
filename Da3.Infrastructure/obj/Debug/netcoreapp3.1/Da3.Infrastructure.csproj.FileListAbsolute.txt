@@ -26,3 +26,16 @@
 /Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Infrastructure/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Cookies.xml
 /Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Infrastructure/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.DataProtection.Abstractions.xml
 /Users/ericsnguyen/Freelancer/TimeTracker/Da3/Da3.Infrastructure/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.xml
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\obj\Debug\netcoreapp3.1\Da3.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\obj\Debug\netcoreapp3.1\Da3.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\obj\Debug\netcoreapp3.1\Da3.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\obj\Debug\netcoreapp3.1\Da3.Infrastructure.dll
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\obj\Debug\netcoreapp3.1\Da3.Infrastructure.pdb
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\bin\Debug\netcoreapp3.1\Da3.Infrastructure.deps.json
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\bin\Debug\netcoreapp3.1\Da3.Infrastructure.runtimeconfig.json
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\bin\Debug\netcoreapp3.1\Da3.Infrastructure.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\bin\Debug\netcoreapp3.1\Da3.Infrastructure.dll
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\bin\Debug\netcoreapp3.1\Da3.Infrastructure.pdb
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\bin\Debug\netcoreapp3.1\Da3.Core.dll
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\bin\Debug\netcoreapp3.1\Da3.Core.pdb
+C:\Users\Admin\Desktop\da3\Da3.Infrastructure\obj\Debug\netcoreapp3.1\Da3.Infrastructure.csproj.CopyComplete
